@@ -1,0 +1,5 @@
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
+print(pow(3,2))
